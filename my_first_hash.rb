@@ -1,8 +1,8 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-favorite_animals = {
-"dogs" => "big dogs", "medium dogs"
-"goats" => "small"
+  animals_I_have = {
+    "dogs" => 2
+    "goats" => 6
 }
 
 end
